@@ -9,6 +9,7 @@ namespace Locacao
     {
         public int CodCliente { get; set; }
         public int CodVeiculo { get; set; }
+        public int CodAgencia { get; set; }
         public Double TotalDiariasLocacao { get; set; }
         public Double ValorTotal { get; set; }
         public string Placa { get; set; }

@@ -33,8 +33,6 @@ namespace Locacao
         {
 
             services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
-            services.AddScoped<IMarcaVeiculoRepositorio, MarcaVeiculoRepositorio>();
-            services.AddScoped<IModeloVeiculoRepositorio, ModeloVeiculoRepositorio>();
             services.AddScoped<IVeiculoRepositorio, VeiculoRepositorio>();
             services.AddScoped<IAgenciaRepositorio, AgenciaRepositorio>();
             services.AddScoped<IContratoRepositorio, ContratoRepositorio>();

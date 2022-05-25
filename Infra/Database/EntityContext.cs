@@ -21,13 +21,10 @@ namespace Locacao.Infra.Database
         public DbSet<ComunicadoDeSinistro> ComunicadoDeSinistro { get; set; }
         public DbSet<Foto> Foto { get; set; }
         public DbSet<Reboque> Reboque { get; set; }
-        public DbSet<Agencia> Agencia { get; set; }
         public DbSet<Contrato> Contrato { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Condutor> Condutor { get; set; }
         public DbSet<Terceiro> Terceiro { get; set; }
-        public DbSet<MarcaVeiculo> MarcaVeiculo { get; set; }
-        public DbSet<ModeloVeiculo> ModeloVeiculo { get; set; }
         public DbSet<Veiculo> Veiculo { get; set; }
         
         
