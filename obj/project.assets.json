@@ -5905,19 +5905,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\140829\\.nuget\\packages\\": {}
+    "C:\\Users\\danil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\140829\\Desktop\\Danilo TCC\\Locacao\\ComunicadoSinistro.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\Desktop\\Locacao\\ComunicadoSinistro.csproj",
       "projectName": "ComunicadoSinistro",
-      "projectPath": "C:\\Users\\140829\\Desktop\\Danilo TCC\\Locacao\\ComunicadoSinistro.csproj",
-      "packagesPath": "C:\\Users\\140829\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\140829\\Desktop\\Danilo TCC\\Locacao\\obj\\",
+      "projectPath": "C:\\Users\\danil\\Desktop\\Locacao\\ComunicadoSinistro.csproj",
+      "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danil\\Desktop\\Locacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\140829\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5925,8 +5925,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://localiza.pkgs.visualstudio.com/_packaging/LocalizaAtivos%40Local/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -5975,7 +5974,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

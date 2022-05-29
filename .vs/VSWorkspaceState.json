@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Infra",
+    "\\Infra\\Repositorios"
   ],
-  "SelectedNode": "\\Locacao.sln",
   "PreviewInSolutionExplorer": false
 }
